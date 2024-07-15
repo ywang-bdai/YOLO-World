@@ -1,3 +1,4 @@
+# type: ignore
 _base_ = ('yolov8_l_syncbn_fast_8xb16-500e_coco.py')
 custom_imports = dict(imports=['yolo_world'],
                       allow_failed_imports=False)
