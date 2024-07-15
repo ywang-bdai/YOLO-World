@@ -39,10 +39,10 @@ dependencies = [
     "openmim",
     "mmcv-lite>=2.0.0rc4",
     "mmdet==3.3.0",
-    "mmengine>=0.7.1",
+    "mmengine @ git+https://github.com/ywang-bdai/mmengine.git',
     "openmim",
     "mmcv==2.1.0 -f https://download.openmmlab.com/mmcv/dist/cu121/torch2.1/index.html",
-    'mmyolo @ git+https://github.com/onuralpszr/mmyolo.git',
+    'mmyolo @ git+https://github.com/ywang-bdai/mmyolo.git',
 
 ]
 
