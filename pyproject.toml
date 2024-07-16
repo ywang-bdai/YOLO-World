@@ -33,7 +33,6 @@ dependencies = [
     "torchvision>=0.16.0",
     "transformers",
     "tokenizers",
-    "openmim",
     "mmcv-lite>=2.0.0rc4",
     "mmdet==3.3.0",
     "mmengine @ git+https://github.com/ywang-bdai/mmengine.git",
